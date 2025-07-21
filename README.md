@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a creative and driven *Full Stack Web Developer* passionate about building sleek, fast, and accessible websites. From launching my own portfolio (ZaheerNadaf.in) to helping businesses grow online, I enjoy turning ideas into powerful digital experiences.
+I'm a creative and driven *Full Stack Web Developer* passionate about building sleek, fast, and accessible websites. From launching my own portfolio (hirezaheer.me) to helping businesses grow online, I enjoy turning ideas into powerful digital experiences.
 
 - 🔭 *Currently Working On:* Freelance Web Projects & Side Startups
 - 🌱 *Exploring:* Clerk, Supabase, AI Tools, Serverless Functions
