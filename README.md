@@ -97,9 +97,6 @@ Responsive and modern website for me.
 
 ---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/zacknadaf/count.svg" />
-</div>
 
 <div align="center">
   💙 Thanks for visiting my profile — Let’s build something amazing together! 💙
