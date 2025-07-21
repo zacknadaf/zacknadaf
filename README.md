@@ -50,24 +50,6 @@ I'm a creative and driven *Full Stack Web Developer* passionate about building s
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zacknadaf&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zacknadaf&theme=tokyonight" width="340px" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zacknadaf&theme=tokyonight" width="340px" />
-</div>
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zacknadaf&theme=tokyonight" width="340px" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zacknadaf&theme=tokyonight&utcOffset=+5.5" width="340px" />
-</div>
-
----
-
 ## ✨ Featured Projects
 
 ### 🌐 [GlowMe Website](https://glowme.in)
@@ -82,7 +64,7 @@ India’s first school-level online hackathon platform aimed at nurturing innova
 
 ---
 
-### 🍽️ [My Portoflio](https://hirezaheer.me)
+### 👨‍💻 [My Portoflio](https://hirezaheer.me)
 *Tech Stack:* React, Typescript, JS  
 Responsive and modern website for me.
 
