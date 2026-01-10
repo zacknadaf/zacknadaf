@@ -44,7 +44,7 @@ I'm a creative and driven *Full Stack Web Developer* passionate about building s
 ---
 
 ### 🔐 Auth & APIs  
-| <img src="[https://avatars.githubusercontent.com/u/64173254](https://cdn.sanity.io/images/o0o2tn5x/production/2399b991025c365aafaa6fca85d91deac801e654-1046x1046.png)?s=200&v=4" width="40"/> | ![Postman](https://skillicons.dev/icons?i=postman) |
+| <img src="https://cdn.sanity.io/images/o0o2tn5x/production/2399b991025c365aafaa6fca85d91deac801e654-1046x1046.png" width="40"/> | ![Postman](https://skillicons.dev/icons?i=postman) |
 |:--:|:--:|
 | Clerk | Postman |
 
